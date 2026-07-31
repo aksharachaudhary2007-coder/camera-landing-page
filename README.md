@@ -1,9 +1,9 @@
-# 📸 Camera Sidebar Menu
+#  Camera Sidebar Menu
 
 A modern Camera Sidebar Menu built using **HTML5** and **CSS3**.
 The sidebar opens and closes using the CSS Checkbox Hack without any JavaScript.
 
-## 🚀 Features
+#  Features
 
 - Responsive Design
 - Sidebar Navigation
@@ -14,23 +14,22 @@ The sidebar opens and closes using the CSS Checkbox Hack without any JavaScript.
 - Google Fonts (Poppins)
 - Full-Screen Background Image
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
 - Font Awesome
 - Google Fonts
 
-## 📁 Project Structure
+# Project Structure
 
-```
 camera-landing/
 │── index.html
 │── index.css
 │── photo.jpg
 └── README.md
-```
 
-## 👩‍💻 Author
+
+# Author
 
 **Akshara**
